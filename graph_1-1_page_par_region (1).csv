@@ -1,4 +1,4 @@
-﻿"Date de déclaration","Cas confirmés","Cas actifs","Annotations 1"
+﻿"Date de déclaration","Cas confirmés","Cas actifs"
 "2020-02-24 00:00:00",0,0
 "2020-02-25 00:00:00",1,1
 "2020-02-26 00:00:00",1,1
@@ -680,7 +680,7 @@
 "2022-01-02 00:00:00",219637,33133
 "2022-01-03 00:00:00",223310,33858
 "2022-01-04 00:00:00",227829,35958
-"2022-01-05 00:00:00",232311,37106,"<a style="color:white" href="/covid-19/donnees/methodologie?accordeon=depistage1&ancre=acces-restreint">Dépistage restreint</a>"
+"2022-01-05 00:00:00",232311,37106
 "2022-01-06 00:00:00",236139,36407
 "2022-01-07 00:00:00",239370,34395
 "2022-01-08 00:00:00",241895,31159
